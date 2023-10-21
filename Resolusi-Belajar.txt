@@ -6,3 +6,4 @@ Coding Pyhton
 Coding SQL
 Latihan membuat project
 Data Visualisasi Excel
+Data Visualisasi Power BI
