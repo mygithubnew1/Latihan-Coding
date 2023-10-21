@@ -4,6 +4,7 @@ Positif Thinking
 Konsisten untuk belajar coding
 Coding Pyhton
 Coding SQL
-Latihan membuat project
 Data Visualisasi Excel
 Data Visualisasi Power BI
+Data Visualisasi Power Tablue
+Sering Berlatih
